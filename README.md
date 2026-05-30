@@ -1,7 +1,3 @@
-# Hi There 👋
-
-I'm **Safarudin**, a Full Stack Software Developer from Indonesia with experience in building scalable web and mobile applications. I specialize in backend development, frontend engineering, API integration, and mobile application development.
-
 <h1 align="center">Hi 👋, I'm Safarudin</h1>
 
 <h3 align="center">
@@ -128,4 +124,3 @@ I enjoy transforming complex business requirements into efficient, scalable, and
 <p align="center">
 <i>"Building reliable software solutions through clean architecture, automation, and modern technologies."</i>
 </p>
-
