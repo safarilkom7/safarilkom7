@@ -2,77 +2,130 @@
 
 I'm **Safarudin**, a Full Stack Software Developer from Indonesia with experience in building scalable web and mobile applications. I specialize in backend development, frontend engineering, API integration, and mobile application development.
 
+<h1 align="center">Hi 👋, I'm Safarudin</h1>
+
+<h3 align="center">
+Full Stack Developer • Backend Engineer • Mobile Developer • AI Integration Enthusiast
+</h3>
+
+<p align="center">
+Passionate about building scalable web applications, mobile apps, system integrations, and automation solutions using modern technologies.
+</p>
+
+---
+
 ## 🚀 About Me
 
-* 💻 Full Stack Developer
-* ⚙️ Backend Specialist using PHP & Laravel
-* 🎨 Frontend Developer with Vue.js
-* 📱 Mobile App Developer using Flutter
-* 🔗 API Integration & System Integration
-* ☁️ Deployment Automation with GitHub Actions
-* 🗄️ Database Design & Optimization
-* 🖨️ Thermal Printing & Bluetooth Printing Solutions
-* 🤖 AI-Powered Application Development
-* 📂 Google Drive & Cloud Storage Integration
+💻 Experienced Full Stack Developer with strong expertise in:
+
+* Backend Development using Laravel & PHP
+* Frontend Development using Vue.js
+* Mobile App Development using Flutter
+* REST API & Third-Party API Integration
+* Database Design & Optimization
+* Linux Server Administration
+* Deployment Automation & CI/CD
+* AI-Powered Application Development
+* Cloud Storage & Google Drive Integration
+* Bluetooth & Thermal Printing Solutions
+
+I enjoy transforming complex business requirements into efficient, scalable, and user-friendly digital solutions.
+
+---
 
 ## 🛠️ Tech Stack
 
 ### Backend
 
-* PHP
-* Laravel
-* RESTful API
-* MySQL
-* SQLite
+<p>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,mysql" />
+</p>
 
 ### Frontend
 
-* Vue.js
-* JavaScript
-* HTML5
-* CSS3
-* Bootstrap
-* Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=vue,js,html,css,bootstrap,tailwind" />
+</p>
 
-### Mobile
+### Mobile Development
 
-* Flutter
-* Dart
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-### DevOps & Tools
+### DevOps & Server
 
-* Git
-* GitHub
-* GitHub Actions
-* Linux Server
-* SSH Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx,git,github,githubactions,docker" />
+</p>
 
-### Cloud & Integration
+### Cloud & Tools
 
-* Google Drive API
-* Firebase
-* Third-Party API Integration
+<p>
+<img src="https://skillicons.dev/icons?i=firebase,vscode,postman" />
+</p>
 
-## 📈 GitHub Stats
+---
 
-<a href="https://github.com/safarilkom7/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=safarilkom7&show_icons=true&theme=tokyonight" />
-</a>
+## 🔥 Specializations
 
-<a href="https://github.com/safarilkom7/github-readme-stats">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarilkom7&layout=compact&theme=tokyonight" />
-</a>
+* Enterprise Web Application Development
+* Financial Management Systems
+* HR & Employee Management Systems
+* File Management & Cloud Storage Systems
+* API Security & Authentication
+* Linux Server Management
+* CI/CD Automation
+* Mobile Printing Solutions
+* AI Integration for Web & Mobile Apps
 
-## 🎯 Current Focus
+---
 
-* Building Financial Management Applications
-* AI Integration for Mobile & Web Applications
+## 📊 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=safarilkom7&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safarilkom7&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=safarilkom7&theme=tokyonight" />
+</p>
+
+---
+
+## 🌱 Currently Exploring
+
+* AI-Powered Applications
+* Advanced Flutter Development
 * Laravel Ecosystem
-* Flutter Cross-Platform Development
-* Automation & Deployment Workflows
+* Microservices Architecture
+* DevOps & Infrastructure Automation
 
-## 📫 Connect With Me
+---
 
-* GitHub: https://github.com/safarilkom7
+## 🌐 Connect With Me
 
-*"Building practical solutions through clean code and modern technology."*
+<p align="left">
+<a href="https://www.linkedin.com/in/safarudin26/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://www.instagram.com/safarudin1606/" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+<a href="https://github.com/safarilkom7" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Building reliable software solutions through clean architecture, automation, and modern technologies."</i>
+</p>
+
